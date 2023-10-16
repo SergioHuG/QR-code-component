@@ -48,6 +48,7 @@ This challenge is well-suited for beginners in programming. It provides the oppo
     Scan the QR code to visit Frontend Mentor and advance your coding proficiency.
   </p>
 </main>
+```
 
 ```css
 :root {
