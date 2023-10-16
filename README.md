@@ -19,8 +19,9 @@ This is my solution to the [Frontend Mentor QR code component challenge](https:/
 
 ### Preview
 
-![Desktop Design](qr-code-component-main\screenshots\desktop-screenshot.png)
-![Mobile Design](screenshots\Smartphone screenshot.png)
+![Desktop Design](screenshots/desktop-screenshot.png)
+
+![Mobile Design](screenshots/Smartphone-screenshot.png)
 
 ### Links
 
