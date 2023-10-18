@@ -21,7 +21,7 @@ This is my solution to the [Frontend Mentor QR code component challenge](https:/
 
 ![Desktop Design](screenshots/desktop-screenshot.png)
 
-![Mobile Design](screenshots/Smartphone-screenshot.png)
+![Mobile Design](screenshots/Smartphone_screenshot.png)
 
 ### Links
 
